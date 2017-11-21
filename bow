@@ -1,1 +1,5 @@
 no you wont 
+
+if(1<2){
+	System.out.println("Fools")
+}
